@@ -1,7 +1,7 @@
 # site settings
 title: Andrew Montequin
 subtitle: Science Writer
-email: andrewmontequin [at] gmail [dot] com
+email: andrewmontequin@gmail.com
 description: Website currently under construction!
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
