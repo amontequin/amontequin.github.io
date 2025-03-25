@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Résumé
-image: assets/images/banner_image.png
+image: assets/images/frogs.jpg
 nav-menu: true
 ---
