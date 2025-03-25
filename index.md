@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Andrew'
 description: null
-image: null
+image: banner_image.png
 author: null
 show_tile: false
 ---
