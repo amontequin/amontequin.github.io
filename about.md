@@ -4,3 +4,6 @@ title: About Me
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
+
+# About me
+I am currently in the final stages of completing a PhD in Interdisciplinary Biological Sciences at Northwestern University. 
