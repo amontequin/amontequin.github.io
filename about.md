@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/banner_image.png
+image: assets/images/headshot.png
 nav-menu: true
 ---
 
