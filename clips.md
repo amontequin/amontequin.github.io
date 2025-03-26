@@ -28,9 +28,9 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 			<h3>Scientist Profiles</h3>
 <ul>
-		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4377"> Neil Shubin</a>, <i>Society for Developmental Biology</i>, 10/22/2024</li>
-  		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4206"> Aimee Jaramillo-Lambert</a>, <i>Society for Developmental Biology</i>, 6/14/2023</li>
-    		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4107"> Victoria Deneke</a>, <i>Society for Developmental Biology</i>, 11/18/2022</li>
+		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4377" target="_blank" rel="noopener noreferrer"> Neil Shubin</a>, <i>Society for Developmental Biology</i>, 10/22/2024</li>
+  		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4206" target="_blank" rel="noopener noreferrer"> Aimee Jaramillo-Lambert</a>, <i>Society for Developmental Biology</i>, 6/14/2023</li>
+    		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4107" target="_blank" rel="noopener noreferrer"> Victoria Deneke</a>, <i>Society for Developmental Biology</i>, 11/18/2022</li>
 
 </ul>
 
@@ -38,7 +38,7 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 			<h3>Conference Reports</h3>
 <ul>
-		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4167"> 2022 Midwest SDB Meeting</a>, <i>Society for Developmental Biology</i>, 3/1/2023</li>
+		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4167" target="_blank" rel="noopener noreferrer"> 2022 Midwest SDB Meeting</a>, <i>Society for Developmental Biology</i>, 3/1/2023</li>
 
 </ul>	
 
