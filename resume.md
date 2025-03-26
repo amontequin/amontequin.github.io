@@ -26,7 +26,7 @@ nav-menu: true
 
 </ul>	
 
-<div class="row>
+<div class="row">
 	<div class="6u 12u$(small)">
  		<h3>Education</h3>
    <ul>
