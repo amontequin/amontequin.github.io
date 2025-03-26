@@ -37,6 +37,18 @@ nav-menu: true
 
 <div class="row">
 	<div class="12u 12u$(small)">
+ 		<h3>Professional Activities</h3>
+   <ul>
+	<li>Undergraduate Research Mentor, <i>Northwestern Univeristy,</i> (Fall 2024-Present)</li>
+	<li>Guest Exhibitor, Genetics Exhibit, <i>Museum of Science and Industry,</i> (Summer 2023)</li>
+	<li>Guest Interviewee, <i>In the SPOTlight Podcast,</i> (Spring 2022)</li>
+	<li>Tutor, <i>Northwestern Prison Education Program,</i> (Fall 2021-Present)</li>
+ 	<li>Guest Presenter, <i>Science with Seniors,</i> (Spring 2019)</li>
+
+</ul>
+
+<div class="row">
+	<div class="12u 12u$(small)">
  		<h3>Research Publications</h3>
    <p>York, J.R., Rao, A., Huber, P.B., Schock, E.N., <b>Montequin, A.,</b> Rigney, S., Labonne, C. Shared features of blastula and neural crest stem cells evolved at the base of vertebrates. <i>Nature Ecology & Evolution</i> 8, 1680–1692 (2024). <a href="https://doi.org/10.1038/s41559-024-02476-8" target="_blank" rel="noopener noreferrer">https://doi.org/10.1038/s41559-024-02476-8 </a></p>
 <p>Full-text link: <a href="https://rdcu.be/dO2UI" target="_blank" rel="noopener noreferrer">https://rdcu.be/dO2UI </a></p>	
