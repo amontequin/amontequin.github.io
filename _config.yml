@@ -1,3 +1,4 @@
+
 # site settings
 title: Andrew Montequin
 subtitle: Science Writer
@@ -46,3 +47,4 @@ exclude:
 - elements.md
 - generic.md
 - landing.md
+- all_posts.md
