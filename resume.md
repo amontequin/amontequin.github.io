@@ -17,7 +17,7 @@ nav-menu: true
     <p>I am a PhD-trained biologist who likes to write about new and old discoveries for any audience. In lab, I use frog embryos to study how cells make decisions about what parts of the body they will form.  </p>
 
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="12u 12u$(small)">
 		<h3>Science Writing</h3>
 <ul>
 	<li>Science Communication Intern, <i>Society for Developmental Biology</i> (Fall 2022-Fall 2024) </li>
@@ -27,7 +27,7 @@ nav-menu: true
 </ul>	
 
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="12u 12u$(small)">
  		<h3>Education</h3>
    <ul>
 	<li>PhD in Interdisciplinary Biological Sciences, <i>Northwestern University,</i> (Fall 2017-Present)</li>
