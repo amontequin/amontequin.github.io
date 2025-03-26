@@ -30,7 +30,7 @@ nav-menu: true
 <ul>
 		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4377"> Neil Shubin</a>, <i>Society for Developmental Biology</i>, 10/22/2024</li>
   		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4206"> Aimee Jaramillo-Lambert</a>, <i>Society for Developmental Biology</i>, 6/14/2023</li>
-    		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4206"> Victoria Deneke</a>, <i>Society for Developmental Biology</i>, 11/18/2022</li>
+    		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4107"> Victoria Deneke</a>, <i>Society for Developmental Biology</i>, 11/18/2022</li>
 
 </ul>
 
