@@ -20,7 +20,7 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 		<h3>Developmental Biology</h3>
 <ul>
-	<li> <a href="https://www.sdbonline.org/resource?ResourceID=4324"> Mapping the Mouse Body</a>, <i>Society for Developmental Biology</i>, 2/5/2024</li>
+	<li> <a href="https://www.sdbonline.org/resource?ResourceID=4324" target="_blank" rel="noopener noreferrer"> Mapping the Mouse Body</a>, <i>Society for Developmental Biology</i>, 2/5/2024</li>
 
 </ul>	
 
