@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Contact Me
-image: null
+image: shannon.png
 nav-menu: true
 ---
