@@ -25,9 +25,7 @@ nav-menu: true
 		<h3>Science Stories</h3>
 <ul>
 	  <li> <a href="https://www.jsonline.com/story/news/2025/06/24/wisconsin-science-industry-help-create-new-international-observatory/84323929007/" target="_blank" rel="noopener noreferrer"> Wisconsin science, industry play critical roles in creating powerful new Rubin Observatory</a>, 6/24/2024 
-	<li> <a href="https://www.jsonline.com/story/news/local/2025/06/19/climate-change-exacerbates-wildfires-and-affects-milwaukee-air-quality/84229002007/" target="_blank" rel="noopener noreferrer"> Melting snow in Canada exacerbates wildfires that bring smoke to Milwaukee</a>, 6/19/2025</li>
-
- 
+	<li> <a href="https://www.jsonline.com/story/news/local/2025/06/19/climate-change-exacerbates-wildfires-and-affects-milwaukee-air-quality/84229002007/" target="_blank" rel="noopener noreferrer"> Melting snow in Canada exacerbates wildfires that bring smoke to Milwaukee</a>, 6/19/2025</li> 
 </ul>
 
 <div class="row">
@@ -36,7 +34,6 @@ nav-menu: true
 <ul>
 	<li> <a href="https://www.jsonline.com/story/news/crime/2025/06/29/milwaukee-police-officers-dies-following-shooting/84389153007/" target="_blank" rel="noopener noreferrer"> Milwaukee police officer Kendall Corder dies following shooting: 'We are all in pain.'</a>, 6/29/2025
 	<li> <a href="https://www.jsonline.com/story/news/2025/06/25/tallest-gingko-tree-in-wisconsin-is-in-milwaukee-mans-front-yard/84263681007/" target="_blank" rel="noopener noreferrer"> A daughter's gift idea confirmed her father has the tallest Ginkgo tree in Wisconsin</a>, 6/25/2025</li>
- 
 </ul>
 
 <div class="row">
