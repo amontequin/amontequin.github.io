@@ -18,9 +18,36 @@ nav-menu: true
 
 <div class="row">
 	<div class="12u 12u$(small)">
-		<h3>Developmental Biology</h3>
+		<h2>Milwaukee Journal Sentinel</h2>
+
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h3>Science Stories</h3>
 <ul>
-	<li> <a href="https://www.sdbonline.org/resource?ResourceID=4324" target="_blank" rel="noopener noreferrer"> Mapping the Mouse Body</a>, <i>Society for Developmental Biology</i>, 2/5/2024</li>
+	  <li> <a href="https://www.jsonline.com/story/news/2025/06/24/wisconsin-science-industry-help-create-new-international-observatory/84323929007/" target="_blank" rel="noopener noreferrer"> Wisconsin science, industry play critical roles in creating powerful new Rubin Observatory</a>, 6/24/2024 
+	<li> <a href="https://www.jsonline.com/story/news/local/2025/06/19/climate-change-exacerbates-wildfires-and-affects-milwaukee-air-quality/84229002007/" target="_blank" rel="noopener noreferrer"> Melting snow in Canada exacerbates wildfires that bring smoke to Milwaukee</a>, 6/19/2025</li>
+
+ 
+</ul>
+
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h3>Local Interest/Breaking News</h3>
+<ul>
+	<li> <a href="https://www.jsonline.com/story/news/crime/2025/06/29/milwaukee-police-officers-dies-following-shooting/84389153007/" target="_blank" rel="noopener noreferrer"> Milwaukee police officer Kendall Corder dies following shooting: 'We are all in pain.'</a>, 6/29/2025
+	<li> <a href="https://www.jsonline.com/story/news/2025/06/25/tallest-gingko-tree-in-wisconsin-is-in-milwaukee-mans-front-yard/84263681007/" target="_blank" rel="noopener noreferrer"> A daughter's gift idea confirmed her father has the tallest Ginkgo tree in Wisconsin</a>, 6/25/2025</li>
+ 
+</ul>
+
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h2>Society for Developmental Biology</h2>
+
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h3>Research Highlights</h3>
+<ul>
+	<li> <a href="https://www.sdbonline.org/resource?ResourceID=4324" target="_blank" rel="noopener noreferrer"> Mapping the Mouse Body</a>, 2/5/2024</li>
 
 </ul>	
 
@@ -28,9 +55,9 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 			<h3>Scientist Profiles</h3>
 <ul>
-		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4377" target="_blank" rel="noopener noreferrer"> Neil Shubin</a>, <i>Society for Developmental Biology</i>, 10/22/2024</li>
-  		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4206" target="_blank" rel="noopener noreferrer"> Aimee Jaramillo-Lambert</a>, <i>Society for Developmental Biology</i>, 6/14/2023</li>
-    		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4107" target="_blank" rel="noopener noreferrer"> Victoria Deneke</a>, <i>Society for Developmental Biology</i>, 11/18/2022</li>
+		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4377" target="_blank" rel="noopener noreferrer"> Neil Shubin</a>, 10/22/2024</li>
+  		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4206" target="_blank" rel="noopener noreferrer"> Aimee Jaramillo-Lambert</a>, 6/14/2023</li>
+    		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4107" target="_blank" rel="noopener noreferrer"> Victoria Deneke</a>, 11/18/2022</li>
 
 </ul>
 
@@ -38,7 +65,7 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 			<h3>Conference Reports</h3>
 <ul>
-		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4167" target="_blank" rel="noopener noreferrer"> 2022 Midwest SDB Meeting</a>, <i>Society for Developmental Biology</i>, 3/1/2023</li>
+		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4167" target="_blank" rel="noopener noreferrer"> 2022 Midwest SDB Meeting</a>, 3/1/2023</li>
 
 </ul>	
 
