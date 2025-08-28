@@ -31,19 +31,23 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 		<h3>Health</h3>
 <ul>
+	<li> <a href="https://www.jsonline.com/story/news/2025/07/21/as-school-year-nears-many-wisconsin-counties-have-low-vaccine-rates/85259502007/" target="_blank" rel="noopener noreferrer"> As doctors try to reinforce need for vaccines, RFK Jr. continues to spread doubts.</a> 7/21/2025</li>
 	<li> <a href="https://www.jsonline.com/story/news/2025/07/03/luckily-tick-borne-powassan-is-rare-but-that-makes-it-hard-to-study/84430766007/" target="_blank" rel="noopener noreferrer"> Powassan virus is another reason to avoid ticks. Its rarity is good news, and a challenge.</a> 7/3/2025</li>
 </ul>
 <div class="row">
 	<div class="12u 12u$(small)">
 		<h3>Physics, Math, Computer Science</h3>
 <ul>
+	<li> <a href="https://www.jsonline.com/story/news/2025/07/28/ai-has-mastered-chess-and-go-but-were-still-better-at-cribbage/85339171007/" target="_blank" rel="noopener noreferrer"> AI is making advances every day. But humans are still best at a classic pastime: cribbage.</a> 7/28/2025, Front Page</li>
+	<li> <a href="https://www.jsonline.com/story/news/2025/07/23/renowned-physicist-finds-collegiality-public-outreach-uw-milwaukee/84525556007/" target="_blank" rel="noopener noreferrer"> At UWM, scientists find a community of researchers, and a chance to share work with public</a>, 7/27/2025, Front Page
 	<li> <a href="https://www.jsonline.com/story/news/2025/06/24/wisconsin-science-industry-help-create-new-international-observatory/84323929007/" target="_blank" rel="noopener noreferrer"> Wisconsin science, industry play critical roles in creating powerful new Rubin Observatory</a>, 6/24/2025, Front Page</li> 
 </ul>
 
 <div class="row">
 	<div class="12u 12u$(small)">
-		<h3>Local Interest and Breaking News</h3>
+		<h3>Local Interest, Service Journalism and Breaking News</h3>
 <ul>
+	<li> <a href="https://www.jsonline.com/story/news/2025/08/01/can-i-run-with-this-air-quality-walk-the-dog-mow-we-have-answers/85476372007/" target="_blank" rel="noopener noreferrer"> You have air quality questions. We have answers. Bottom line: Be cautious this weekend.</a> 8/1/2025</li> 
 	<li> <a href="https://www.jsonline.com/story/news/2025/07/16/fireflies-light-up-the-sky-and-shine-a-light-on-conservation/85206450007/" target="_blank" rel="noopener noreferrer"> Fireflies are putting on the best light show in Milwaukee this summer. But is it a mirage?</a> 7/16/2026, Front Page</li> 
 	<li> <a href="https://www.jsonline.com/story/news/crime/2025/06/29/milwaukee-police-officers-dies-following-shooting/84389153007/"  target="_blank" rel="noopener noreferrer"> Milwaukee police officer Kendall Corder dies following shooting: 'We are all in pain.'</a> 6/29/2025, Front Page</li>
 	<li> <a href="https://www.jsonline.com/story/news/2025/06/25/tallest-gingko-tree-in-wisconsin-is-in-milwaukee-mans-front-yard/84263681007/" target="_blank" rel="noopener noreferrer"> A daughter's gift idea confirmed her father has the tallest Ginkgo tree in Wisconsin.</a> 6/25/2025</li>
