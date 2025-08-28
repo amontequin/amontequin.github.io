@@ -24,8 +24,11 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 		<h3>Climate and Environment</h3>
 <ul>
+	<li> <a href="https://www.jsonline.com/story/news/2025/08/19/indigenous-fire-stewardship-shaped-great-lakes-forests/85661059007/" target = "_blank" rel="noopener noreferrer"> Fire was part of the history of our land. Then we took it away. Can it begin again?</a> 8/19/2025, Front Page</li>
+	<li> <a href="https://www.jsonline.com/story/news/2025/08/19/climate-change-stretches-the-limits-of-forest-management/85628513007/" target = "_blank" rel="noopener noreferrer"> This wildfire season shows the limits of forest management in the face of climate change.</a> 8/19/2025, Front Page</li> 
+	<li> <a href="https://www.jsonline.com/story/news/2025/08/07/sea-lamprey-control-research-finds-promising-supplemental-methods/85516475007/" target = "_blank" rel="noopener noreferrer"> In the war against invasive sea lampreys, researchers find new success with old ideas.</a> 8/7/2025, Front Page</li>
 	<li> <a href="https://www.jsonline.com/story/news/2025/07/03/has-epa-lost-its-way-some-workers-say-yes-now-theyre-on-leave/84464239007/" target = "_blank" rel="noopener noreferrer"> EPA workers, many from Wisconsin, blasted leadership. Now, they've been put on leave.</a> 7/3/2025</li>
-	<li> <a href="https://www.jsonline.com/story/news/local/2025/06/19/climate-change-exacerbates-wildfires-and-affects-milwaukee-air-quality/84229002007/" target="_blank" rel="noopener noreferrer"> Melting snow in Canada exacerbates wildfires that bring smoke to Milwaukee</a>, 6/19/2025, Front Page</li> 
+	<li> <a href="https://www.jsonline.com/story/news/local/2025/06/19/climate-change-exacerbates-wildfires-and-affects-milwaukee-air-quality/84229002007/" target="_blank" rel="noopener noreferrer"> Melting snow in Canada exacerbates wildfires that bring smoke to Milwaukee.</a> 6/19/2025, Front Page</li> 
 </ul>
 <div class="row">
 	<div class="12u 12u$(small)">
@@ -39,7 +42,7 @@ nav-menu: true
 		<h3>Physics, Math, Computer Science</h3>
 <ul>
 	<li> <a href="https://www.jsonline.com/story/news/2025/07/28/ai-has-mastered-chess-and-go-but-were-still-better-at-cribbage/85339171007/" target="_blank" rel="noopener noreferrer"> AI is making advances every day. But humans are still best at a classic pastime: cribbage.</a> 7/28/2025, Front Page</li>
-	<li> <a href="https://www.jsonline.com/story/news/2025/07/23/renowned-physicist-finds-collegiality-public-outreach-uw-milwaukee/84525556007/" target="_blank" rel="noopener noreferrer"> At UWM, scientists find a community of researchers, and a chance to share work with public</a>, 7/27/2025, Front Page
+	<li> <a href="https://www.jsonline.com/story/news/2025/07/23/renowned-physicist-finds-collegiality-public-outreach-uw-milwaukee/84525556007/" target="_blank" rel="noopener noreferrer"> At UWM, scientists find a community of researchers, and a chance to share work with public</a>, 7/27/2025, Front Page</li>
 	<li> <a href="https://www.jsonline.com/story/news/2025/06/24/wisconsin-science-industry-help-create-new-international-observatory/84323929007/" target="_blank" rel="noopener noreferrer"> Wisconsin science, industry play critical roles in creating powerful new Rubin Observatory</a>, 6/24/2025, Front Page</li> 
 </ul>
 
@@ -47,6 +50,7 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 		<h3>Local Interest, Service Journalism and Breaking News</h3>
 <ul>
+	<li> <a href="https://www.jsonline.com/story/news/2025/08/11/did-storms-clear-the-air-yes-and-no-either-way-smokes-coming-back/85608915007/" target="_blank" rel="noopener noreferrer"> One byproduct of the storms: Clean air. But wildfire smoke is coming right back.</a> 8/11/2025</li>
 	<li> <a href="https://www.jsonline.com/story/news/2025/08/01/can-i-run-with-this-air-quality-walk-the-dog-mow-we-have-answers/85476372007/" target="_blank" rel="noopener noreferrer"> You have air quality questions. We have answers. Bottom line: Be cautious this weekend.</a> 8/1/2025</li> 
 	<li> <a href="https://www.jsonline.com/story/news/2025/07/16/fireflies-light-up-the-sky-and-shine-a-light-on-conservation/85206450007/" target="_blank" rel="noopener noreferrer"> Fireflies are putting on the best light show in Milwaukee this summer. But is it a mirage?</a> 7/16/2026, Front Page</li> 
 	<li> <a href="https://www.jsonline.com/story/news/crime/2025/06/29/milwaukee-police-officers-dies-following-shooting/84389153007/"  target="_blank" rel="noopener noreferrer"> Milwaukee police officer Kendall Corder dies following shooting: 'We are all in pain.'</a> 6/29/2025, Front Page</li>
