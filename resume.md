@@ -20,6 +20,7 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 		<h3>Science Writing</h3>
 <ul>
+	<li>AAAS Mass Media Fellow, <i>Milwaukee Journal Sentinel</i> (Summer 2025) </li>
 	<li>Science Communication Intern, <i>Society for Developmental Biology</i> (Fall 2022-Fall 2024) </li>
 	<li>PreLighter, <i>The Company of Biologists</i> (Spring 2022-Fall 2023)</li>
  	<li>"Green Labs" Policy Memo Writer, <i>Northwestern Science Policy Outreach Taskforce</i> (Winter 2021)</li>
