@@ -24,6 +24,7 @@ nav-menu: true
 	<div class="12u 12u$(small)">
 		<h3>Climate and Environment</h3>
 <ul>
+	<li> <a href="https://insideclimatenews.org/news/15102025/illinois-transit-and-energy-bills/" target = "_blank" rel="noopener noreferrer"> Illinois Residents Urge Lawmakers to Act on Transit, Energy Bills.</a> 10/15/2025, Inside Climate News</li>
 	<li> <a href="https://www.jsonline.com/story/news/2025/08/19/indigenous-fire-stewardship-shaped-great-lakes-forests/85661059007/" target = "_blank" rel="noopener noreferrer"> Fire was part of the history of our land. Then we took it away. Can it begin again?</a> 8/19/2025, Front Page</li>
 	<li> <a href="https://www.jsonline.com/story/news/2025/08/19/climate-change-stretches-the-limits-of-forest-management/85628513007/" target = "_blank" rel="noopener noreferrer"> This wildfire season shows the limits of forest management in the face of climate change.</a> 8/19/2025, Front Page</li> 
 	<li> <a href="https://www.jsonline.com/story/news/2025/08/07/sea-lamprey-control-research-finds-promising-supplemental-methods/85516475007/" target = "_blank" rel="noopener noreferrer"> In the war against invasive sea lampreys, researchers find new success with old ideas.</a> 8/7/2025, Front Page</li>
