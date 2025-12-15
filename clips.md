@@ -18,6 +18,13 @@ nav-menu: true
 
 <div class="row">
 	<div class="12u 12u$(small)">
+		<h2>Inside Climate News</h2>
+<ul>
+	<li> <a href="https://insideclimatenews.org/news/15102025/illinois-transit-and-energy-bills/" target = "_blank" rel="noopener noreferrer"> Illinois Residents Urge Lawmakers to Act on Transit, Energy Bills.</a> 10/15/2025</li>
+</ul>
+
+<div class="row">
+	<div class="12u 12u$(small)">
 		<h2>Milwaukee Journal Sentinel</h2>
 
 <div class="row">
