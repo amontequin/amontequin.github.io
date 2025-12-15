@@ -31,7 +31,7 @@ nav-menu: true
 	<div class="12u 12u$(small)">
  		<h3>Education</h3>
    <ul>
-	<li>PhD in Interdisciplinary Biological Sciences, <i>Northwestern University,</i> (Fall 2017-Present)</li>
+	<li>PhD in Interdisciplinary Biological Sciences, <i>Northwestern University,</i> (Fall 2017-Fall 2025)</li>
 	<li>BS in Bioengineering, <i>California Institute of Technology,</i> (Fall 2013-Spring 2017)</li>
 
 </ul>
