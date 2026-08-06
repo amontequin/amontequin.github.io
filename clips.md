@@ -123,7 +123,7 @@ Select produced segments are below:
 	<li> <a href="https://www.jsonline.com/story/news/2025/06/25/tallest-gingko-tree-in-wisconsin-is-in-milwaukee-mans-front-yard/84263681007/" target="_blank" rel="noopener noreferrer"> A daughter's gift idea confirmed her father has the tallest Ginkgo tree in Wisconsin.</a> 6/25/2025</li>
 </ul>
 
-<div class="row">
+<!-- <div class="row">
 	<div class="12u 12u$(small)">
 		<h2>Society for Developmental Biology</h2>
 
@@ -151,5 +151,5 @@ Select produced segments are below:
 <ul>
 		<li> <a href="https://www.sdbonline.org/resource?ResourceID=4167" target="_blank" rel="noopener noreferrer"> 2022 Midwest SDB Meeting</a>, 3/1/2023</li>
 
-</ul>	
+</ul>	-->
 
