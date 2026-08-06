@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing and Producing Samples
+title: Writing and Producing
 image: assets/images/banner_image.png
 nav-menu: true
 ---
@@ -43,6 +43,9 @@ Select produced segments are below:
 	<div class="12u 12u$(small)">
 		<h3>Politics</h3>
 <ul>
+	<li> <a href="https://news.wttw.com/2026/07/28/revised-cps-budget-removes-furloughs-still-first-draft-says-ctu-president" target = "_blank" rel="noopener noreferrer"> Revised CPS Budget That Removes Furloughs Still a ‘First Draft,’ Says CTU President</a> 7/28/2026</li>
+	<li> <a href="https://news.wttw.com/2026/06/03/illinois-house-republican-leader-state-budget-bears-and-local-government-funding" target = "_blank" rel="noopener noreferrer"> Illinois House Republican Leader on State Budget, Bears and Local Government Funding</a> 6/3/2026</li>
+	<li> <a href="https://news.wttw.com/2026/06/02/illinois-house-speaker-ai-regulation-bears-stadium-incentives" target = "_blank" rel="noopener noreferrer"> Illinois House Speaker on AI Regulation, Bears Stadium Incentives</a> 6/2/2026</li>
 	<li> <a href="https://news.wttw.com/2026/05/05/should-social-media-be-regulated-kids-illinois-lawmakers-seek-restrictions-amid-debate" target = "_blank" rel="noopener noreferrer"> Should Social Media Be Regulated for Kids? Illinois Lawmakers Seek Restrictions Amid Debate</a> 5/5/2026</li>
 	<li> <a href="https://news.wttw.com/2026/03/18/pritzker-looks-keep-momentum-influence-going-after-primaries" target = "_blank" rel="noopener noreferrer"> Pritzker Looks to Keep Momentum, Influence Going After Primaries</a> 3/18/2026</li>
 </ul>
@@ -51,6 +54,8 @@ Select produced segments are below:
 	<div class="12u 12u$(small)">
 		<h3>Business</h3>
 <ul>
+	<li> <a href="https://news.wttw.com/2026/07/15/chicago-fed-president-talks-inflation-central-bank-changes" target = "_blank" rel="noopener noreferrer"> Chicago Fed President Talks Inflation, Central Bank Changes
+</a> 7/15/2026</li>
 	<li> <a href="https://news.wttw.com/2026/05/07/community-celebrates-cta-red-line-extension-decades-making" target = "_blank" rel="noopener noreferrer"> A Community Celebrates the CTA Red Line Extension Decades in the Making
 </a> 5/7/2026</li>
 	<li> <a href="https://news.wttw.com/2026/03/31/prediction-markets-grow-lawmakers-and-public-race-keep" target = "_blank" rel="noopener noreferrer"> As Prediction Markets Grow, Lawmakers and the Public Race to Keep Up
