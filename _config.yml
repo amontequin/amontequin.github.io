@@ -1,9 +1,9 @@
 
 # site settings
 title: Andrew Montequin, Ph.D.
-subtitle: Health, Science and Environment Journalist
+subtitle: Current Journalist, Former Scientist
 email: andrewmontequin@gmail.com
-description: PhD-trained scientist turned journalist, covering everything related to science, health and the environment. 
+description: PhD-trained biologist turned journalist, with experience in print, digital and broadcast production. 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Andrew Montequin
