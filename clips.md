@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing Samples
+title: Writing and Producing Samples
 image: assets/images/banner_image.png
 nav-menu: true
 ---
@@ -12,9 +12,89 @@ nav-menu: true
 <section id="one">
 	 <div class="inner">
 		<header class="major">
-			<h1>Writing Samples</h1>
+			<h1>Writing and Producing Samples</h1>
 		</header>
     <p>Here is a running list of published writing samples, check back in the future to see more!</p>
+
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h2>WTTW News</h2>
+<ul>
+	<li> <a href="https://news.wttw.com/stories-by-author/andrew%20montequin" target = "_blank" rel="noopener noreferrer"> Full list of written stories.</a> </li>
+</ul>
+Select produced segments are below:
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h3>Science, Health, Environment, Energy</h3>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/08/05/amid-push-nuclear-reactor-construction-illinois-one-step-closer-selecting-site" target = "_blank" rel="noopener noreferrer"> Amid Push for Nuclear Reactor Construction, Illinois Is One Step Closer to Selecting a Site</a> 8/5/2026</li>
+</ul>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/08/03/red-cross-hospitals-confront-challenge-nationwide-blood-shortage" target = "_blank" rel="noopener noreferrer"> Red Cross, Hospitals Confront Challenge of Nationwide Blood Shortage
+</a> 8/3/2026</li>
+</ul>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/06/22/data-center-policy-debate-illinois-spans-environmental-economic-goals" target = "_blank" rel="noopener noreferrer"> Data Center Policy Debate in Illinois Spans Environmental, Economic Goals
+</a> 6/22/2026</li>
+</ul>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/05/20/chicago-s-ebola-response-plan-more-decade-making" target = "_blank" rel="noopener noreferrer"> Chicago’s Ebola Response Plan Is More Than a Decade in the Making
+</a> 5/20/2026</li>
+</ul>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/04/21/after-artemis-ii-nasa-charts-path-moon-and-beyond" target = "_blank" rel="noopener noreferrer"> After Artemis II, NASA Charts Path to the Moon and Beyond
+</a> 4/21/2026</li>
+</ul>
+
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h3>Politics</h3>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/05/05/should-social-media-be-regulated-kids-illinois-lawmakers-seek-restrictions-amid-debate" target = "_blank" rel="noopener noreferrer"> Should Social Media Be Regulated for Kids? Illinois Lawmakers Seek Restrictions Amid Debate</a> 5/5/2026</li>
+</ul>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/03/18/pritzker-looks-keep-momentum-influence-going-after-primaries" target = "_blank" rel="noopener noreferrer"> Pritzker Looks to Keep Momentum, Influence Going After Primaries</a> 3/18/2026</li>
+</ul>
+
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h3>Business</h3>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/05/07/community-celebrates-cta-red-line-extension-decades-making" target = "_blank" rel="noopener noreferrer"> A Community Celebrates the CTA Red Line Extension Decades in the Making
+</a> 5/7/2026</li>
+</ul>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/03/31/prediction-markets-grow-lawmakers-and-public-race-keep" target = "_blank" rel="noopener noreferrer"> As Prediction Markets Grow, Lawmakers and the Public Race to Keep Up
+</a> 3/31/2026</li>
+</ul>
+
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h3>General</h3>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/07/23/wnba-all-star-weekend-returns-chicago-city-absolutely-buzzing" target = "_blank" rel="noopener noreferrer"> WNBA All-Star Weekend Returns to Chicago: ‘The City Is Absolutely Buzzing’
+</a> 7/23/2026</li>
+</ul>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/07/07/ice-arrests-surging-chicago-community-groups-build-past-networks" target = "_blank" rel="noopener noreferrer"> With ICE Arrests Surging, Chicago Community Groups Build on Past Networks
+</a> 7/7/2026</li>
+</ul>
+
+<ul>
+	<li> <a href="https://news.wttw.com/2026/04/02/chicago-s-cultural-venues-adapt-changing-landscape" target = "_blank" rel="noopener noreferrer"> Chicago’s Cultural Venues Adapt to a Changing Landscape
+</a> 4/2/2026</li>
+</ul>
 
 <div class="row">
 	<div class="12u 12u$(small)">
