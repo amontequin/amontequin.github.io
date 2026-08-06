@@ -18,13 +18,18 @@ nav-menu: true
 
 <div class="row">
 	<div class="12u 12u$(small)">
-		<h3>Science Writing</h3>
+		<h3>Journalism</h3>
 <ul>
+	<li>Minow Fellow in Journalism Excellence, <i>WTTW News</i> (Winter 2026-Winter 2027)</li>
 	<li>AAAS Mass Media Fellow, <i>Milwaukee Journal Sentinel</i> (Summer 2025) </li>
+</ul>
+		
+<div class="row">
+	<div class="12u 12u$(small)">
+		<h3>Science Communication</h3>
+<ul>
 	<li>Science Communication Intern, <i>Society for Developmental Biology</i> (Fall 2022-Fall 2024) </li>
 	<li>PreLighter, <i>The Company of Biologists</i> (Spring 2022-Fall 2023)</li>
- 	<li>"Green Labs" Policy Memo Writer, <i>Northwestern Science Policy Outreach Taskforce</i> (Winter 2021)</li>
-
 </ul>	
 
 <div class="row">
